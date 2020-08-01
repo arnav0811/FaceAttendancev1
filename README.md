@@ -4,7 +4,7 @@
 FaceAttendance gives the Image Capturing model for the Facial Recognition Based Attendance System. It can be used for near-real-time facial recognition. For development the OpenCV Library is used. 
 
 # GUI
-The GUI provided is a preliminary version consisting only of the Image Capture model in order to create the dataset. 
+GUI built using Tkinter library. The GUI provided is a preliminary version consisting only of the Image Capture model in order to create the dataset. 
 
 # Further Imporovements
 1. Fixing minor bugs
@@ -13,3 +13,5 @@ The GUI provided is a preliminary version consisting only of the Image Capture m
 4. Build the GUI for other functions
 
 # Citations
+
+https://github.com/shubamwalia/Face-Recognition-Attendance-System
