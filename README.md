@@ -7,4 +7,9 @@ FaceAttendance gives the Image Capturing model for the Facial Recognition Based 
 The GUI provided is a preliminary version consisting only of the Image Capture model in order to create the dataset. 
 
 # Further Imporovements
-1. Fixing bugs regarding cv2.
+1. Fixing minor bugs
+2. Optimize further for large scale facial recognition
+3. Set up frontend web server to connect facial recognition system with a SQL database
+4. Build the GUI for other functions
+
+# Citations
