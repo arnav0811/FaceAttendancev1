@@ -11,7 +11,3 @@ GUI built using Tkinter library. The GUI provided is a preliminary version consi
 2. Optimize further for large scale facial recognition
 3. Set up frontend web server to connect facial recognition system with a SQL database
 4. Build the GUI for other functions
-
-# Citations
-
-https://github.com/shubamwalia/Face-Recognition-Attendance-System
